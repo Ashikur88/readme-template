@@ -121,9 +121,9 @@ http://www.knownewworldorder.blogspot.com
 ### image syntex 
 
 😊😄
-<!--![Profile](./Pictures/Ashik22final.jpg)-->  
+<br> 
 
-<img src="./Pictures/Ashik22final.jpg" width="200" title="profile image">
+[Profile](./Pictures/Ashik22final.jpg)
 
 
 

@@ -118,12 +118,18 @@ http://www.knownewworldorder.blogspot.com
 
 
 <br>
-### image syntex 😊😄
+### image syntex 
+
+😊😄
 <!--![Profile](./Pictures/Ashik22final.jpg)-->  
 
-<img src="./Pictures/Ashik22final.jpg" width="300" hight="200" title="profile image">
+<img src="./Pictures/Ashik22final.jpg" width="200" title="profile image">
 
-<br>😊😄
+
+
+
+
+
 
 ### Table syntex  
 

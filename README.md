@@ -94,7 +94,7 @@ head{
 ### Task list  
 - [x] Task1
 - [x] Task2
-- [] Task3
+- [x] Task3
 
 <br>
 
@@ -123,7 +123,7 @@ http://www.knownewworldorder.blogspot.com
 
 <img src="./Pictures/Ashik22final.jpg" width="300" hight="200" title="profile image">
 
-<br>
+<br>😊😄
 
 ### Table syntex  
 

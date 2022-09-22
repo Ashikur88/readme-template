@@ -123,7 +123,7 @@ http://www.knownewworldorder.blogspot.com
 😊😄
 <br> 
 
-<img src="./Pictures/Ashik22final.JPG" width="200" title="Ashik">
+<img src="./Pictures/Ashik22final.jpg" width="200" title="md.Ashik"/>
 
 
 

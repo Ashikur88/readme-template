@@ -125,7 +125,7 @@ http://www.knownewworldorder.blogspot.com
 
 <!-- ![md.Ashik](./Pictures/Ashik22final.jpg)-->
 
-<img src="./pictures/ashik22final.JPG" width="400">
+<img src="./pictures/Ashik22final.JPG" class="img-responsive" alt=""> </div>
 
 
 
